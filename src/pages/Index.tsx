@@ -95,7 +95,7 @@ const Index = () => {
             AI-Powered Analysis
           </div>
           <h1 className="text-4xl md:text-5xl font-bold font-display bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent">
-            ATS Score Checker
+            Tumie's ATS Score Checker
           </h1>
           <p className="text-muted-foreground mt-2 max-w-lg mx-auto">
             Upload your CV and paste the job description to get an instant ATS compatibility score with actionable tips.
